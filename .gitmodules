@@ -1,0 +1,3 @@
+[submodule "go.silly-mod"]
+	path = go.silly-mod
+	url = https://github.com/x19290/go.silly-mod
